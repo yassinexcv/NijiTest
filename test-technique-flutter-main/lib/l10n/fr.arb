@@ -1,0 +1,8 @@
+{
+  "@@locale": "fr",
+  "dailymedia" : "Astronomie média du jour",
+  "selectday" : "Selectionnez un jour",
+  "selectdatetime" : "Selectionnez une date",
+  "erroroccurred" : "Une erreur est survenue, réessayez plus tard.",
+  "slideup" : "glissez vers le haut pour voir la description"
+}

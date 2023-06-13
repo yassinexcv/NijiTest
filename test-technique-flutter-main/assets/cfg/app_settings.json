@@ -1,0 +1,4 @@
+{
+  "api_base_url": "https://api.nasa.gov/planetary/apod?",
+  "apiKey" : "DEMO_KEY"
+}
